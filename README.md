@@ -1,4 +1,4 @@
-# ING Hackatho Demo
+# ING Hackatho Demo jhjk
 
 
 Query srcquery = em.createQuery("UPDATE UsersBalance SET balance = :srcBalance WHERE  user_id < :p");
